@@ -1,2 +1,2 @@
-# ebrp
-The elements of becoming a real programmer.
+# The elements of becoming a real programmer
+
